@@ -1,3 +1,0 @@
-line1
-line2 added
-add by b2 new branch
